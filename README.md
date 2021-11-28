@@ -15,4 +15,5 @@ CAPSTONE PROJECT - Predict the Probability of default of loan accounts - (NBFC) 
 ![image](https://user-images.githubusercontent.com/64334748/143783797-df592214-c4c8-4cd3-9833-bb951ea0a9c6.png)
 ![image](https://user-images.githubusercontent.com/64334748/143783802-f3503733-588d-47e3-a6c2-2f1db063c5e5.png)
 ![image](https://user-images.githubusercontent.com/64334748/143783807-86659a5a-2414-46f2-9c69-99fe9476cc7a.png)
-Promote more LAP loans in Hyderabad, Surat, Ahmedabad, Rajkot, Coimbatore.
+
+>>> Promote more LAP loans in Hyderabad, Surat, Ahmedabad, Rajkot, Coimbatore.
